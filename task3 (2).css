@@ -1,0 +1,92 @@
+
+.container{
+        border:2px solid rgb(248, 244, 244);
+        background-color: rgb(221, 225, 230);
+        position: absolute;
+        width: 1300px;
+        height: 600px;
+
+}
+.BOX1{
+    border: 1px solid rgb(196, 191, 191);
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    bottom: 300px;
+    margin: 20px;
+    left: 50px;
+    background-color:rgb(233, 231, 227) ;
+}
+.BOX2{
+    border: 1px solid rgb(223, 220, 220);
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    bottom: 80px;
+    margin: 20px;
+    left: 50px;
+    background-color:rgb(233, 231, 227) ;
+}
+.BOX4{
+    border: 1px solid rgb(214, 207, 207);
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    bottom: 300px;
+    margin: 20px;
+    left:430px ;
+    background-color:rgb(233, 231, 227) ;
+}
+.BOX3{
+    border: 1px solid rgb(201, 193, 193);
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    bottom: 80px;
+    margin: 20px;
+    left:430px ;
+    background-color:rgb(233, 231, 227) ;
+}
+.BOX5{
+    border: 1px solid rgb(231, 224, 224);
+    width: 400px;
+    height: 420px;
+    position: absolute;
+    bottom: 80px;
+    margin: 20px;
+    left:800px ;
+    background-color:rgb(233, 231, 227) ;
+}
+.BOX5 #pa{
+    width: 400px;
+    height: 400px;
+    
+}
+#ia{
+    position: absolute;
+    left: 70px
+    
+}
+
+#ya{
+    position: absolute;
+    left: 30px;
+    top: 30px;
+    
+}
+#sm{
+    position: absolute;
+    left:30px ;
+    top:70px ;
+}
+#in{
+    position: absolute;
+    left:30px;
+    top: 120px;
+    color: rgb(49, 172, 49);
+}
+#sc{
+    position: absolute;
+    left: 20px;
+
+}
